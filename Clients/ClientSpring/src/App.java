@@ -16,6 +16,7 @@ public class App {
 		
 		Pensee pensee = new Pensee();
 		penseeDAO.ajouterPensee(pensee);
+		//test
 	}
 
 }
